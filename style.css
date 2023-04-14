@@ -1,0 +1,113 @@
+/* home */
+.boxing {
+    width: 100%;
+    height: 700px;
+  }
+
+p {
+    text-align: center;
+    position: relative;
+    bottom: 200px;
+}
+
+h1 {
+    text-align: center;
+    position: relative;
+    bottom: 200px;
+}
+
+/* Gaming */
+.GamingPage {
+    width: 100%;
+    height: 700px;
+    background-color: black;
+}
+
+.Gaming {
+    width: 80%;
+    height: 700px;
+}
+
+.gaming-title {
+    position: relative;
+    left: 340px;
+    color: white;
+ }
+
+h1 {
+    position: relative;
+    bottom: 600px;
+}
+
+h3 {
+    color: white;
+    position: relative;
+    bottom: 600px;
+    left: 1030px;
+}
+
+.description {
+    width: 30%;
+    color: white;
+    position: relative;
+    bottom: 600px;
+    left: 1030px;
+    font-weight: bold;
+    font-size: large;
+ }
+/* Boxing */
+.boxing {
+    height: 900px;
+}
+h1 {
+    position: relative;
+    color: white
+}
+
+.boxing-title {
+    position: relative;
+    bottom: 800px;
+    left: 200px;
+}
+.boxing-description {
+    width: 30%;
+    color: white;
+    position: relative;
+    bottom: 750px;
+    left: 890px;
+    font-weight: bold;
+    font-size: large;
+ }
+
+ .boxing-sub-heading {
+    color: white;
+    position: relative;
+    bottom: 780px;
+    left: 897px;
+}
+/* Football */
+.Football {
+    width: 100%;
+    height: 900px;
+}
+.Football-title {
+    position: relative;
+    bottom: 800px;
+    left: 200px;
+}
+
+.Football-sub-heading {
+    color: white;
+    position: relative;
+    bottom: 780px;
+    left: 897px;
+}
+.Football-description {
+    width: 30%;
+    color: white;
+    position: relative;
+    bottom: 750px;
+    left: 890px;
+    font-weight: bold;
+    font-size: large;
+ }
